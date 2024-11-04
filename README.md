@@ -5,9 +5,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=haide&label=Profile%20Visited:&color=085425&style=plastic" alt="haide" /> </p>
 <h2>👧 About Me:</h2>
 
-- 🌱 I’m currently learning **Mobile application development(Java), Python and Natural Language Processing.**
+- 🌱 I’m currently learning **Mobile application development(Java), Machine Learning and Natural Language Processing.**
 
-- 👯 I’m looking to collaborate on **on projects involving Front-end development, particularly those utilizing HTML, CSS, JavaScript, and React.**
+- 👯 I’m looking to collaborate on **on projects involving Android Development.**
 
 - 💬 Feel Free to ask me about **aforementioned topics!**
 
