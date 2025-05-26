@@ -1,13 +1,13 @@
 <p align="center"><img align="center" height = "400" width="500" src="https://github.com/IrtifaHaider/irtifahaider/blob/main/Hey%2C%20Irtifa%20Here!.gif"></p>
 
-<h3 align="center">A Dedicated Computer Science Enthusiast</h3>
+<h3 align="center">A Dedicated Computer Science Enthusiast | Passionate about AI and Bengali Natural Language Processing </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=haide&label=Profile%20Visited:&color=085425&style=plastic" alt="haide" /> </p>
 <h2>👧 About Me:</h2>
 
-- 🌱 I’m currently learning **Mobile application development(Java), Machine Learning and Natural Language Processing.**
-
-- 👯 I’m looking to collaborate on **on projects involving Android Development.**
+- 🌱 Currently working on: Bengali NLP research, exploring tokenization and transformer-based embeddings.
+  
+- 👯 Looking to collaborate on: AI/ML projects, especially in NLP and multimodal systems.
 
 - 💬 Feel Free to ask me about **aforementioned topics!**
 
